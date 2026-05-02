@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on creating automation tests, testing API endpoints, catching bugs manually as an Associate @ Cognizant  
+- 🌱 I’m currently learning Selenium WebDriver, TestNG, Extent Reports, Github Actions.
+- 📫 How to reach me: namratasherkar@proton.me
+- 😄 Pronouns: she/her
+
 <!--
 **namratasherkar/namratasherkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
