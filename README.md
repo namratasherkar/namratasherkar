@@ -1,9 +1,13 @@
 ## Hi there 👋
 
+I am **Namrata**, currently working as an Associate @ Cognizant. 
 - 🔭 I’m currently working on creating automation tests, testing API endpoints, catching bugs manually as an Associate @ Cognizant  
 - 🌱 I’m currently learning Selenium WebDriver, TestNG, Extent Reports, Github Actions.
-- 📫 How to reach me: namratasherkar@proton.me
-- 😄 Pronouns: she/her
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,selenium,git,github,githubactions,maven,vscode,postman" />
+  </a>
+</p>
 
 <!--
 **namratasherkar/namratasherkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
